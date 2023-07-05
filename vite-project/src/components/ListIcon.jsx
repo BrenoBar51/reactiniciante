@@ -1,6 +1,6 @@
 export default function ListIcon(){
     return(
-        <div className="flex justify-between gap-5">
+    <div className="flex justify-between gap-5 m-0">
         <span className="w-7 h-7 flex justify-center cursor-pointer rounded-full border border-white">
             <box-icon type='logo' name='facebook-square' color="#FFFFFF"></box-icon>
         </span>
